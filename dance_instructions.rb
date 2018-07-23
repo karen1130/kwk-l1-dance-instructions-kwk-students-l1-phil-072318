@@ -6,4 +6,4 @@ def the_dance1
   puts small Skip-Step
 end
 
-the_dance1
+def the_dance1
