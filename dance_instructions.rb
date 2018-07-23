@@ -6,5 +6,4 @@ def the_dance
   puts small Skip-Step
 end
 
-
 def the_dance
