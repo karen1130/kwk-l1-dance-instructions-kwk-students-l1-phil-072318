@@ -5,3 +5,5 @@ def the_dance1
   puts return right foot to the grouond 
   puts small Skip-Step
 end
+
+the_dance1
